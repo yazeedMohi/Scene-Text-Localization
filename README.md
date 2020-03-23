@@ -1,6 +1,6 @@
 # Scene-Text-Localization
 
-Simple Java implementation for Christian's and Berkeley's algorithms for clock synchronization.
+An optimized code for the localization of text in scene images, supporting different datasets.
 
 This code was written in a modular fashion that allows easy usage of new architectures and datasets, the reader portion already provides the ability to read from the following datasets
 - TotalText
